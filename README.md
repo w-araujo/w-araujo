@@ -1,4 +1,4 @@
-![Imagem realacionada a "sobre mim"](https://raw.githubusercontent.com/w-araujo/w-araujo/main/About%20Me.png)
+![Imagem realacionada a "sobre mim"](https://github.com/w-araujo/w-araujo/assets/52975177/be1db49e-b346-4813-a26c-88e78efe48b9)
 
 <!--
 **w-araujo/w-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
