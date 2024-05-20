@@ -1,5 +1,7 @@
 ![Imagem realacionada a "sobre mim"](https://github.com/w-araujo/w-araujo/assets/52975177/be1db49e-b346-4813-a26c-88e78efe48b9)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=w-araujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=bf6ae2&text_color=FFF" alt="GitHub Stats" />
+</p>
 <!--
 **w-araujo/w-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
